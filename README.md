@@ -1,7 +1,7 @@
 # Pruebas_JavaScript
 Ejemplos de JavaScript
 
-..
+...
 ## Taller #1: Figuras geometricas
 
 -Primer paso: Definir las formulas
